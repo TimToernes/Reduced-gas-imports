@@ -1,6 +1,6 @@
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.3938042.svg)](https://doi.org/10.5281/zenodo.3938042)
-![GitHub](https://img.shields.io/github/license/(#PATH))
-![Size](https://img.shields.io/github/repo-size/(#PATH))
+![GitHub](https://img.shields.io/github/license/TimToernes/Reduced-gas-imports)
+![Size](https://img.shields.io/github/repo-size/TimToernes/Reduced-gas-imports)
 
 # Long-term implications of reduced gas imports on the decarbonization of the European energy system
 
@@ -11,3 +11,6 @@ Only parts of the results data have been included in this repository due to size
 
 The code is released as free software under the
 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) license.
+
+
+![sector diagram](./figures/GraphAbstract.png)
