@@ -1,13 +1,17 @@
 *.nc
 *.p
 *.log
+*.zip
+*060.*
 
 Manuscript/
 Notes/
 results/version-gaslimit-3H/
 results/version-gaslimit3100-168H/
+results/version-gaslimit3100-3H-zip/
 results/PyPSA-Eur-Sec-0.6.0/
 scripts/.ipynb_checkpoints/
+scripts/plotting_tim_w_PyPSA-Eur-Sec060.ipynb
 scripts/shapefiles/
 .ipynb_checkpoints/
 .DS_Store

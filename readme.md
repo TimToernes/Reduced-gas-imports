@@ -1,6 +1,5 @@
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.3938042.svg)](https://doi.org/10.5281/zenodo.3938042)
 ![GitHub](https://img.shields.io/github/license/TimToernes/Reduced-gas-imports)
-![Size](https://img.shields.io/github/repo-size/TimToernes/Reduced-gas-imports)
 
 # Long-term implications of reduced gas imports on the decarbonization of the European energy system
 
