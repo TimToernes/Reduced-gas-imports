@@ -261,7 +261,7 @@ if arrows == True:
     fig.savefig('../figures/Gas_' + case + '_map_with_arrows.jpeg',format='jpeg',dpi=300,bbox_inches='tight')  
 
 else:
-    fig.savefig('../figures/Gas_' + case + '_map_wo_arrows.jpeg',format='jpeg',dpi=300,bbox_inches='tight')  
+    fig.savefig('../figures/Gas_' + case + '_map_wo_arrowstest.jpeg',format='jpeg',dpi=300,bbox_inches='tight')  
 
-
+plt.show()
 # fig.savefig('../figures/Gas_imports_map_wo_arrows.jpeg',format='jpeg',dpi=300,bbox_inches='tight')  

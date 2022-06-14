@@ -40,6 +40,7 @@
     gas for industry CC: '#692e0a'
     gas pipeline: '#ebbca0'
     gas pipeline new: '#a87c62'
+    LNG: '#0a335e'
     # oil
     oil: '#c9c9c9'
     oil boiler: '#adadad'
@@ -54,6 +55,7 @@
     # coal
     Coal: '#545454'
     coal: '#545454'
+    coal CC: '#545454'
     Coal marginal: '#545454'
     solid: '#545454'
     Lignite: '#826837'
@@ -62,7 +64,10 @@
     # biomass
     biogas: '#e3d37d'
     biomass: '#baa741'
+    biomass CHP: '#baa741'
     other renewables and biofuels: '#baf238'
+    residential rural biomass boiler: '#baf238'
+    biomass boiler: '#baf238'
     solid biomass: '#baa741'
     solid biomass transport: '#baa741'
     solid biomass for industry: '#7a6d26'
@@ -71,7 +76,7 @@
     solid biomass for industry co2 to stored: '#47411c'
     # power transmission
     lines: '#6c9459'
-    transmission lines: '#6c9459'
+    transmission lines: '#fc03db'
     electricity distribution grid: '#97ad8c'
     # electricity demand
     Electric load: '#110d63'
@@ -110,6 +115,7 @@
     air heat pump: '#36eb41'
     ground heat pump: '#2fb537'
     Ambient: '#98eb9d'
+    gas CHP: '#8a5751'
     CHP: '#8a5751'
     CHP CC: '#634643'
     CHP heat: '#8a5751'
